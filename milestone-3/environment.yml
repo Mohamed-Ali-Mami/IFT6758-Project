@@ -1,0 +1,14 @@
+name: ift6758-m3-docker-env
+channels:
+  - defaults
+  - conda-forge
+  - comet_ml
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - flask
+  - joblib
+  - streamlit
+  - comet_ml
+  - requests
